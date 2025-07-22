@@ -13,7 +13,7 @@ tar -xvf nk2edf_ver15_source.tar.gz
 Organize your directory structure as follows:  
 ```
 ./
-├── EEG/
+├── EEG2100/
 └── nk2edf_ver15_source/
 ```
 
